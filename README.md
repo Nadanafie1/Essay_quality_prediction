@@ -1,6 +1,3 @@
-TITLE PROJECT : Essay quality prediction  
-
-About : The objective is to create a model predicting the grade of an essay. 
 
 READ ME FILE 
 
