@@ -1,4 +1,3 @@
-
 READ ME FILE 
 
 TITLE : Essay quality prediction  
